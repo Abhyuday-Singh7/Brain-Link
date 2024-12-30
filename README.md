@@ -24,8 +24,7 @@ The project is highly customizable, allowing caregivers or administrators to con
 5. **GUI Interaction**: Intuitive interface built using Python’s `Tkinter` library for user interaction and configuration.  
 
 ---
-## Folder Structure
-- /dataset: contains dataset used to train model but note that this data will be needed to convert into numpy array before training.  
+## Folder Structure  
 - gui.py: main code which starts the application.  
 - lslpipe.py: code to fetch data from lslstream.  
 - modelTrain3.py: code for Model.  
